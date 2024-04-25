@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Teams>
+	<Team>
+		<Name>Argentine</Name>
+		<Logo>argentina_logo</Logo>
+		<Participation>18</Participation>
+		<Winner>3</Winner>
+		<Nickname>Albiceleste</Nickname>
+		<Photo>equipe_argentine</Photo>
+		<Description>L'équipe nationale de football d'Argentine, surnommée Albiceleste, a remporté la Coupe du Monde de la FIFA à deux reprises, en 1978 et en 1986.</Description>
+	</Team>
+
+	<Team>
+		<Name>Brazil</Name>
+		<Logo>brazil_logo</Logo>
+		<Participation>22</Participation>
+		<Winner>5</Winner>
+		<Nickname>Seleção</Nickname>
+		<Photo>equipe_bresil</Photo>
+		<Description>L'équipe nationale de football du Brésil, surnommée la Seleção, est l'une des équipes les plus titrées de l'histoire de la Coupe du Monde de la FIFA, avec cinq titres remportés.</Description>
+	</Team>
+
+	<Team>
+		<Name>Germany</Name>
+		<Logo>germany_logo</Logo>
+		<Participation>20</Participation>
+		<Winner>4</Winner>
+		<Nickname>Die Mannschaft</Nickname>
+		<Photo>equipe_allemagne</Photo>
+		<Description>L'équipe nationale de football d'Allemagne, surnommée Die Mannschaft, a remporté la Coupe du Monde de la FIFA à quatre reprises, en 1954, 1974, 1990 et 2014.</Description>
+	</Team>
+
+	<Team>
+		<Name>France</Name>
+		<Logo>france_logo</Logo>
+		<Participation>16</Participation>
+		<Winner>2</Winner>
+		<Nickname>Les Bleus</Nickname>
+		<Photo>equipe_france</Photo>
+		<Description>L'équipe nationale de football de France, surnommée Les Bleus, a remporté la Coupe du Monde de la FIFA à deux reprises, en 1998 et en 2018.</Description>
+	</Team>
+	<Team>
+		<Name>Spain</Name>
+		<Logo>spain_logo</Logo>
+		<Participation>16</Participation>
+		<Winner>1</Winner>
+		<Nickname>La Roja</Nickname>
+		<Photo>equipe_espagne</Photo>
+		<Description>L'équipe nationale de football d'Espagne, surnommée La Roja, a remporté la Coupe du Monde de la FIFA une fois, en 2010.</Description>
+	</Team>
+	<Team>
+		<Name>England</Name>
+		<Logo>england_logo</Logo>
+		<Participation>16</Participation>
+		<Winner>1</Winner>
+		<Nickname>Three Lions</Nickname>
+		<Photo>equipe_angleterre</Photo>
+		<Description>L'équipe nationale de football d'Angleterre, surnommée Three Lions, a remporté la Coupe du Monde de la FIFA une fois, en 1966.</Description>
+	</Team>
+	<Team>
+		<Name>Netherlands</Name>
+		<Logo>netherlands_logo</Logo>
+		<Participation>11</Participation>
+		<Winner>0</Winner>
+		<Nickname>Oranje</Nickname>
+		<Photo>equipe_pays_bas</Photo>
+		<Description>L'équipe nationale de football des Pays-Bas, surnommée Oranje, a atteint la finale de la Coupe du Monde de la FIFA à trois reprises, en 1974, 1978 et 2010, sans remporter le titre.</Description>
+	</Team>
+	<Team>
+		<Name>Portugal</Name>
+		<Logo>portugal_logo</Logo>
+		<Participation>8</Participation>
+		<Winner>1</Winner>
+		<Nickname>Seleção das Quinas</Nickname>
+		<Photo>equipe_portugal</Photo>
+		<Description>L'équipe nationale de football du Portugal, surnommée Seleção das Quinas, a remporté la Coupe du Monde de la FIFA une fois, en 2016.</Description>
+	</Team>
+	<Team>
+		<Name>Uruguay</Name>
+		<Logo>uruguay_logo</Logo>
+		<Participation>14</Participation>
+		<Winner>2</Winner>
+		<Nickname>La Celeste</Nickname>
+		<Photo>equipe_uruguay</Photo>
+		<Description>L'équipe nationale de football d'Uruguay, surnommée La Celeste, a remporté la Coupe du Monde de la FIFA à deux reprises, en 1930 et en 1950.</Description>
+	</Team>
+	<Team>
+		<Name>Belgium</Name>
+		<Logo>belgium_logo</Logo>
+		<Participation>14</Participation>
+		<Winner>0</Winner>
+		<Nickname>Red Devils</Nickname>
+		<Photo>equipe_belgique</Photo>
+		<Description>L'équipe nationale de football de Belgique, surnommée les Diables Rouges, est une équipe talentueuse qui a réalisé de belles performances ces dernières années.</Description>
+	</Team>
+	<Team>
+		<Name>Denmark</Name>
+		<Logo>denmark_logo</Logo>
+		<Participation>6</Participation>
+		<Winner>0</Winner>
+		<Nickname>De Rød-Hvide</Nickname>
+		<Photo>equipe_danemark</Photo>
+		<Description>L'équipe nationale de football du Danemark, surnommée De Rød-Hvide (les Rouge et Blanc), est une équipe compétitive sur la scène européenne.</Description>
+	</Team>
+	<Team>
+		<Name>Switzerland</Name>
+		<Logo>switzerland_logo</Logo>
+		<Participation>12</Participation>
+		<Winner>0</Winner>
+		<Nickname>Schweizer Nati</Nickname>
+		<Photo>equipe_suisse</Photo>
+		<Description>L'équipe nationale de football de Suisse, surnommée la Nati, est une équipe qui a montré sa solidité et son potentiel sur la scène internationale.</Description>
+	</Team>
+	<Team>
+		<Name>Mexico</Name>
+		<Logo>mexico_logo</Logo>
+		<Participation>17</Participation>
+		<Winner>0</Winner>
+		<Nickname>El Tri</Nickname>
+		<Photo>equipe_mexique</Photo>
+		<Description>L'équipe nationale de football du Mexique, surnommée El Tri, est une équipe représentative de la passion pour le football dans ce pays.</Description>
+	</Team>
+	<Team>
+		<Name>United States</Name>
+		<Logo>united_states_logo</Logo>
+		<Participation>11</Participation>
+		<Winner>0</Winner>
+		<Nickname>Stars and Stripes</Nickname>
+		<Photo>equipe_etats_unis</Photo>
+		<Description>L'équipe nationale de football des États-Unis, surnommée Stars and Stripes, est une équipe en constante progression dans le paysage footballistique mondial.</Description>
+	</Team>
+	<Team>
+		<Name>Japan</Name>
+		<Logo>japan_logo</Logo>
+		<Participation>7</Participation>
+		<Winner>0</Winner>
+		<Nickname>Samurai Blue</Nickname>
+		<Photo>equipe_japon</Photo>
+		<Description>L'équipe nationale de football du Japon, surnommée Samurai Blue, est une équipe émergente dans le paysage footballistique mondial.</Description>
+	</Team>
+	<Team>
+		<Name>Iran</Name>
+		<Logo>iran_logo</Logo>
+		<Participation>6</Participation>
+		<Winner>0</Winner>
+		<Nickname>Team Melli</Nickname>
+		<Photo>equipe_iran</Photo>
+		<Description>L'équipe nationale de football d'Iran, surnommée Team Melli, a participé à la Coupe du Monde de la FIFA à cinq reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>Ecuador</Name>
+		<Logo>ecuador_logo</Logo>
+		<Participation>4</Participation>
+		<Winner>0</Winner>
+		<Nickname>La Tri</Nickname>
+		<Photo>equipe_ecuador</Photo>
+		<Description>L'équipe nationale de football d'Équateur, surnommée La Tri, a participé à la Coupe du Monde de la FIFA à trois reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>Canada</Name>
+		<Logo>canada_logo</Logo>
+		<Participation>2</Participation>
+		<Winner>0</Winner>
+		<Nickname>Les Rouges</Nickname>
+		<Photo>equipe_canada</Photo>
+		<Description>L'équipe nationale de football du Canada, surnommée Les Rouges, a participé à la Coupe du Monde de la FIFA une fois.</Description>
+	</Team>
+
+	<Team>
+		<Name>Senegal</Name>
+		<Logo>senegal_logo</Logo>
+		<Participation>3</Participation>
+		<Winner>0</Winner>
+		<Nickname>Les Lions de la Teranga</Nickname>
+		<Photo>equipe_senegal</Photo>
+		<Description>L'équipe nationale de football du Sénégal, surnommée Les Lions de la Teranga, a participé à la Coupe du Monde de la FIFA à deux reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>Ghana</Name>
+		<Logo>ghana_logo</Logo>
+		<Participation>4</Participation>
+		<Winner>0</Winner>
+		<Nickname>Black Stars</Nickname>
+		<Photo>equipe_ghana</Photo>
+		<Description>L'équipe nationale de football du Ghana, surnommée Black Stars, a participé à la Coupe du Monde de la FIFA à trois reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>Qatar</Name>
+		<Logo>qatar_logo</Logo>
+		<Participation>1</Participation>
+		<Winner>0</Winner>
+		<Nickname>Al-Annabi</Nickname>
+		<Photo>equipe_qatar</Photo>
+		<Description>L'équipe nationale de football du Qatar, surnommée Al-Annabi, participera à la Coupe du Monde de la FIFA pour la première fois en 2022 en tant que pays hôte.</Description>
+	</Team>
+
+	<Team>
+		<Name>Saudi Arabia</Name>
+		<Logo>saudi_arabia_logo</Logo>
+		<Participation>5</Participation>
+		<Winner>0</Winner>
+		<Nickname>Al-Suqour</Nickname>
+		<Photo>equipe_saudi_arabia</Photo>
+		<Description>L'équipe nationale de football d'Arabie Saoudite, surnommée Al-Suqour, a participé à la Coupe du Monde de la FIFA à cinq reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>South Korea</Name>
+		<Logo>south_korea_logo</Logo>
+		<Participation>10</Participation>
+		<Winner>0</Winner>
+		<Nickname>Red Devils</Nickname>
+		<Photo>equipe_south_korea</Photo>
+		<Description>L'équipe nationale de football de Corée du Sud, surnommée Red Devils, a participé à la Coupe du Monde de la FIFA à dix reprises.</Description>
+	</Team>
+	<Team>
+		<Name>Maroc</Name>
+		<Logo>morocco_logo</Logo>
+		<Participation>5</Participation>
+		<Winner>0</Winner>
+		<Nickname>Atlas Lions</Nickname>
+		<Photo>equipe_maroc</Photo>
+		<Description>L'équipe nationale de football du Maroc, surnommée les Lions de l'Atlas, a participé à la Coupe du Monde de la FIFA à cinq reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>Serbia</Name>
+		<Logo>serbia_logo</Logo>
+		<Participation>2</Participation>
+		<Winner>0</Winner>
+		<Nickname>Orlovi</Nickname>
+		<Photo>equipe_serbia</Photo>
+		<Description>L'équipe nationale de football de Serbie, surnommée les Orlovi, a participé à la Coupe du Monde de la FIFA à deux reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>Poland</Name>
+		<Logo>poland_logo</Logo>
+		<Participation>9</Participation>
+		<Winner>0</Winner>
+		<Nickname>Biało-Czerwoni</Nickname>
+		<Photo>equipe_poland</Photo>
+		<Description>L'équipe nationale de football de Pologne, surnommée les Biało-Czerwoni, a participé à la Coupe du Monde de la FIFA à neuf reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>Costa Rica</Name>
+		<Logo>costa_rica_logo</Logo>
+		<Participation>5</Participation>
+		<Winner>0</Winner>
+		<Nickname>Los Ticos</Nickname>
+		<Photo>equipe_costa_rica</Photo>
+		<Description>L'équipe nationale de football du Costa Rica, surnommée Los Ticos, a participé à la Coupe du Monde de la FIFA à cinq reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>Cameroon</Name>
+		<Logo>cameroon_logo</Logo>
+		<Participation>7</Participation>
+		<Winner>0</Winner>
+		<Nickname>Les Lions Indomptables</Nickname>
+		<Photo>equipe_cameroon</Photo>
+		<Description>L'équipe nationale de football du Cameroun, surnommée Les Lions Indomptables, a participé à la Coupe du Monde de la FIFA à sept reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>Wales</Name>
+		<Logo>wales_logo</Logo>
+		<Participation>2</Participation>
+		<Winner>0</Winner>
+		<Nickname>The Dragons</Nickname>
+		<Photo>equipe_wales</Photo>
+		<Description>L'équipe nationale de football du Pays de Galles, surnommée The Dragons, a participé à la Coupe du Monde de la FIFA une fois.</Description>
+	</Team>
+
+	<Team>
+		<Name>Australia</Name>
+		<Logo>australia_logo</Logo>
+		<Participation>5</Participation>
+		<Winner>0</Winner>
+		<Nickname>Socceroos</Nickname>
+		<Photo>equipe_australia</Photo>
+		<Description>L'équipe nationale de football d'Australie, surnommée les Socceroos, a participé à la Coupe du Monde de la FIFA à cinq reprises.</Description>
+	</Team>
+	<Team>
+		<Name>Tunisia</Name>
+		<Logo>tunisia_logo</Logo>
+		<Participation>5</Participation>
+		<Winner>0</Winner>
+		<Nickname>Les Aigles de Carthage</Nickname>
+		<Photo>equipe_tunisia</Photo>
+		<Description>L'équipe nationale de football de Tunisie, surnommée les Aigles de Carthage, a participé à la Coupe du Monde de la FIFA à cinq reprises.</Description>
+	</Team>
+
+	<Team>
+		<Name>Croatia</Name>
+		<Logo>croatia_logo</Logo>
+		<Participation>6</Participation>
+		<Winner>0</Winner>
+		<Nickname>Vatreni</Nickname>
+		<Photo>equipe_croatia</Photo>
+		<Description>L'équipe nationale de football de Croatie, surnommée les Vatreni, a participé à la Coupe du Monde de la FIFA à six reprises.</Description>
+	</Team>
+
+</Teams>
